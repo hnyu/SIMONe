@@ -1,3 +1,5 @@
+(Repo forked from the gitlab link https://gitlab.com/generally-intelligent/simone)
+
 
 A Pytorch implementation of [SIMONe: View-Invariant, Temporally-Abstracted Object Representations via Unsupervised Video Decomposition](https://deepmind.com/research/publications/2021/SIMONe-View-Invariant-Temporally-Abstracted-Object-Representations-via-Unsupervised-Video-Decomposition)
 
