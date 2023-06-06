@@ -7,7 +7,7 @@ LATENT_CHANNELS = 32
 # The number of "object" latents
 K = 16
 # The number of frames in the input video sequence
-T = 16
+T = 24
 XY_RESOLUTION = 64
 CONV_LAYERS = 3
 CONV_STRIDE = 2
